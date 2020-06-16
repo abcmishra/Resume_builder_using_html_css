@@ -1,0 +1,169 @@
+body {
+	border: 2px #778899;
+	margin-left: 20%;
+	margin-right: 25%;
+	font-family: Arial, Helvetica, sans-serif;
+	linear-gradient
+
+}
+.header {
+	text-align: center;
+	background-color: #696;
+}
+
+.description{
+	text-align: left;
+
+}
+
+#name {
+  position: absolute;
+  top: 25%;
+  left: 49%;
+  transform: translate(-50%, -50%);
+	font-size: larger;
+	background border-radius: 50px;
+	background-color: #fcba03;
+	color: black;
+	font-weight: bold;
+	font-size: x-large;
+}
+.header img {
+	width: 160px;
+	height: 160px;
+	border-radius: 100px;
+	border: 5px dotted #fcba03;
+}
+
+#generalinfo {
+	text-align: center;
+	margin: 0px;
+	border: 2px #778899;
+}
+
+#generalinfo ul li {
+	display: inline;
+}
+
+ul {
+	padding-left: 0px;
+}
+
+table {
+	width: 100%;
+	padding: 5px;
+	margin: 5px;
+	border-collapse: separate;
+}
+
+td {
+	width: 60%;
+	border: 1px #778899;
+	vertical-align: top;
+}
+
+.title {
+	padding-top: 15px;
+	font-size: larger;
+	font-weight: bolder;
+	text-align: left;
+}
+
+*{
+	font-family: sans-serif;
+	list-style:none;
+	padding:0;
+}
+
+.skills {
+	width:250px;
+	margin:0px;
+	colour: black;
+	text-align: left;
+}
+
+.skills li{
+	margin:0px 0;
+	text-align:left;
+}
+.bar{
+	background: #FFFACD;
+	display:block;
+	height:2px;
+	border:1px solid rgba(0,0,0,0.3);
+	border-radius:3px;
+	overflow:hidden;
+	box-shadow: 0 0 10px #808000;
+
+}
+
+.bar span{
+	height:2px;
+	float:left;
+	background:#FFA500;
+
+}
+
+.java{
+	width:75%;
+}
+
+.javascript{
+	width:90%;
+}
+.html{
+	width:90%;
+}
+
+.css{
+	width:85%;
+}
+.cpp{
+	width:70%;
+}
+
+li {
+	text-align: left;
+	list-style: none;
+}
+
+.section li{
+	width:105%;
+
+}
+
+.edu {
+	font-weight: bolder;
+	text-align:left;
+}
+
+.institute {
+	font-style: sans-serif;
+}
+
+.content {
+	width:75%;
+	text-align: left;
+	font-style: sans-serif;
+}
+
+.designation {
+	font-weight: bold;
+}
+
+.company {
+	font-style: sans-serif;
+}
+
+.location {
+	font-style: sans-serif;
+}
+
+.vl {
+  border-left: 1px solid grey;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 250px;
+}
